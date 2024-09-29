@@ -13,6 +13,9 @@
 }
 
 body {
+	color: #000000;
+	font-size: 12px;
+	text-align: center; 
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
@@ -53,6 +56,9 @@ header {
 	/* flex-shrink - Capacidade de redução do item.    */
 	/* flex-basis – Tamanho inicial do item.           */
 	flex: 1 1 100vw;
+	height: 100px;
+	background: #48142b;
+	color: #000000;
 }
 
 header #logo {
@@ -102,6 +108,7 @@ header #logo {
 }
 
 nav {
+	background: #f16280;
 	/* Alinha os itens na vertical. */
 	justify-content: center;
 
@@ -116,6 +123,7 @@ nav {
 }
 
 nav a {
+	color: #000000;
 	/* Margem de todos os lados. */
 	margin: 0 3%;
 
@@ -124,6 +132,7 @@ nav a {
 }
 
 main {
+	background: #e87c6a;
 	/* Junção de flex-grow, flex-shrink e flex-basis.  */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item.    */
@@ -132,6 +141,8 @@ main {
 }
 
 aside {
+	height: 100px;
+	Background: #e19559;
 	/* Junção de flex-grow, flex-shrink e flex-basis.  */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item.    */
@@ -145,6 +156,8 @@ footer {
 	/* flex-shrink - Capacidade de redução do item.    */
 	/* flex-basis – Tamanho inicial do item.           */
 	flex: 1 1 100vw;
+	height: 100px;
+	Background: #f7a659;
 }
 
 a {
