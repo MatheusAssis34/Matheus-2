@@ -31,7 +31,7 @@ body {
 	flex: 1 1 100vw;
 
 	/* Margem de todos os lados. */
-	margin: 3px;
+	margin: 0px;
 }
 
 /* Formatação comum entre os elementos. */
@@ -45,7 +45,7 @@ header, nav, main, aside, footer {
 	display: flex;
 
 	/* Margem externa de todos os lados. */
-	margin: 3px;
+	margin: 0px;
 }
 
 /* Seletores para formatação individual. */
