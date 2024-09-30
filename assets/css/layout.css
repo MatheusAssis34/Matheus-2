@@ -137,7 +137,10 @@ nav a {
 }
 
 main {
-	background: #e87c6a;
+	background-image: url ('imagens/istockphoto-932021840-2048x2048.jpg'); 
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
 	/* Junção de flex-grow, flex-shrink e flex-basis.  */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item.    */
