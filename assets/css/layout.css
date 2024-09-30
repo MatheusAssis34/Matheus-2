@@ -137,7 +137,7 @@ nav a {
 }
 
 main {
-	background-image: url ('imagens/istockphoto-932021840-2048x2048.jpg'); 
+	background-image:"imagens/istockphoto-932021840-2048x2048.jpg"; 
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat; 
