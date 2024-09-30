@@ -152,7 +152,7 @@ aside {
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item.    */
 	/* flex-basis – Tamanho inicial do item.           */
-	flex: 1 1 200px;
+	flex: 20 1 500px;
 }
 
 footer {
