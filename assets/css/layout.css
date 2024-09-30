@@ -16,7 +16,7 @@
 
 body {
 	font-family: 'Montserrat', sans-serif;
-	color: white;
+	color: #000000;
 	font-size: 12px;
 	text-align: center; 
 	/* Exibição flexível.                          */
@@ -128,7 +128,7 @@ nav {
 }
 
 nav a {
-	color: #000000;
+	color: white;
 	/* Margem de todos os lados. */
 	margin: 0 3%;
 
