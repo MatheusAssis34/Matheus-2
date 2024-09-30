@@ -35,12 +35,14 @@ body {
 
 	/* Margem de todos os lados. */
 	margin: 0px;
+
+	background: #48142b;
 }
 
 /* Formatação comum entre os elementos. */
 header, nav, main, aside, footer {
 	/* Cor do fundo. */
-	background: #a1a1a1;
+	background: #48142b;
 
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
