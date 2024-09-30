@@ -145,15 +145,7 @@ main {
 	flex: 20 1 500px;
 }
 
-aside {
-	height: 100px;
-	Background: #e19559;
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
-	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
-	flex: 1 1 500px;
-}
+
 
 footer {
 	/* Junção de flex-grow, flex-shrink e flex-basis.  */
