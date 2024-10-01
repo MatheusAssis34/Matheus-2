@@ -137,7 +137,7 @@ nav a {
 }
 
 main {
-	background:  #f7a659
+	background:  #f7a659;
 	/* Junção de flex-grow, flex-shrink e flex-basis.  */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item.    */
